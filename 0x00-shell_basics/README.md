@@ -1,2 +1,3 @@
-This project presents some executable file that perform various actions.
+__0x00. Shell, Basics__
+
 
