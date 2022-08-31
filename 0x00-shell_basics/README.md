@@ -1,3 +1,5 @@
-__0x00. Shell, Basics__
+# 0x00. Shell, Basics
+
+[link](/0x00-shell_basics/0-current_working_directory) - A script that prints the absolute path name of the current working directory.
 
 
