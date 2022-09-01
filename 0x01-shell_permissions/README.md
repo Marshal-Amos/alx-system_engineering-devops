@@ -36,7 +36,7 @@ The file *hello* will be in the working directgory. Commas are not allowed for t
 
 [13-change_group](/0x01-shell_permissions/13-change_group) - A script that changes the group owner to *school* for the file *hello*. The file *hello* will be in the working directory.
 
-[100-change_owner_and_group](/0x001-shell_permissions/100-change_owner_and_group) - A script that changes the owner to *vincent* and the group owner to *staff* all the files and directories in the working directory.
+[100-change_owner_and_group](/0x01-shell_permissions/100-change_owner_and_group) - A script that changes the owner to *vincent* and the group owner to *staff* all the files and directories in the working directory.
 
 [101-symbolic_link_permissions](/0x01-shell_permissions/101-symbolic_link_permissions) - A script that changes the owner and the group owner of *_hello* to *vincent* and *staff* respectively.
 
