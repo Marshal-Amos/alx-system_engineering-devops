@@ -1,2 +1,1 @@
-This project presents some executable file that perform various actions.
-
+The README file for 0x02-shell-redirections
