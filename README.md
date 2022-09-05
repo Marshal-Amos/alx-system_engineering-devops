@@ -1,1 +1,1 @@
-The README file for 0x02-shell-redirections
+This README files explains more about this repository
